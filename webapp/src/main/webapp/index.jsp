@@ -1,3 +1,1 @@
-<h1> De ce e Galuta in cardasie cu Puclea? </h1>
-VREAU SI EU IN GASCA VOASTRA!!!!!
-SALUT SALUT SALUT
+<h1> Nu este atat de greu Azure DevOps </h1>
